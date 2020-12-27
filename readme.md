@@ -1,3 +1,3 @@
 # **Archivist**
 ---
-Bash script for unpacking variuos archive formats.
+Bash script for unpacking various archive formats.
